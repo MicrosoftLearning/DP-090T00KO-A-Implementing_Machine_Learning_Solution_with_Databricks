@@ -53,7 +53,7 @@ Azure Databricks를 사용하려면 먼저 Azure 구독에 Azure Databricks 작�
 
 1. 작업 영역에 파일을 업로드한 후 **UI를 사용하여 테이블 만들기**를 선택합니다. 그런 다음 클러스터를 선택하고 **테이블 미리 보기**를 선택합니다.
 
-1. 다음 테이블 특성을 지정하고 **테이블 만들기**를 선택합니다.
+1. 다음 테이블 특성을 지정합니다.
 
     - **테이블 이름**: nyc_taxi
     - **다음 데이터베이스에 만들기**: 기본값
@@ -62,6 +62,22 @@ Azure Databricks를 사용하려면 먼저 Azure 구독에 Azure Databricks 작�
     - **첫 번째 행이 머리글임**: *선택*
     - **스키마 유추**: *선택*
     - **여러 줄**: *선택 취소됨*
+
+1. 각 열에 적절한 데이터 형식을 설정합니다. **passengerCount** 열을 찾습니다. 드롭다운 메뉴에서 열을 **INT**로 설정합니다.
+
+    - passengerCount: **INT**
+    - tripDistance: **DOUBLE**
+    - hour_of_day: **INT**
+    - day_of_week: **INT**
+    - month_num: **INT**
+    - isPaidTimeOff: **BOOLEAN**
+    - snowDepth: **DOUBLE**
+    - precipTime: **DOUBLE**
+    - precipDepth: **DOUBLE**
+    - 온도: **DOUBLE**
+    - totalAmount: **DOUBLE**
+
+1. **테이블 만들기**를 클릭합니다.
 
 1. 테이블을 만든 후 작업 영역에서 해당 테이블을 확인합니다.
 
