@@ -1,4 +1,4 @@
----
+﻿---
 lab:
     title: 'Azure Databricks를 사용하여 하이퍼 매개 변수 튜닝'
     module: '연습(선택 사항)'
@@ -91,7 +91,7 @@ Azure Databricks를 사용하려면 먼저 Azure 구독에 Azure Databricks 작�
 1. 표시되는 블레이드에서 이름 옆의 아래쪽 방향 펼침 단추(**v**)를 선택하고 **가져오기**를 선택합니다.
 
 1. **Notebook 가져오기** 대화 상자에서 다음 URL의 Notebook 보관 파일을 가져옵니다. 그러면 보관 파일 이름과 같은 이름의 폴더가 생성되며, 이 폴더에는 Notebook 2개가 포함됩니다.
-   - `https://github.com/MicrosoftLearning/dp-090-databricks-ml/blob/madiepev-add-modules/05%20-%20Hyperparameter%20Tuning.dbc`
+   - `https://github.com/MicrosoftLearning/dp-090-databricks-ml/blob/master/05%20-%20Hyperparameter%20Tuning.dbc`
 
 ## 자동 MLflow 하이퍼 매개 변수 튜닝 살펴보기
 
