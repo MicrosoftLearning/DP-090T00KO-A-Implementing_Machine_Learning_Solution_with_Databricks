@@ -1,4 +1,4 @@
----
+﻿---
 lab:
     title: 'Azure Databricks를 통한 분산 딥 러닝'
     module: '연습(선택 사항)'
@@ -47,13 +47,13 @@ Azure Databricks를 사용하려면 먼저 Azure 구독에 Azure Databricks 작�
 1. 표시되는 블레이드에서 이름 옆의 아래쪽 방향 펼침 단추(**v**)를 선택하고 **가져오기**를 선택합니다.
 
 1. **Notebook 가져오기** 대화 상자에서 다음 URL의 Notebook 보관 파일을 가져옵니다. 그러면 보관 파일 이름과 같은 이름의 폴더가 생성되며, 이 폴더에는 Notebook 2개가 포함됩니다.
-   - `https://github.com/MicrosoftLearning/dp-090-databricks-ml/blob/madiepev-add-modules/06%20-%20Distributed%20Deep%20Learning.dbc`
+   - `https://github.com/MicrosoftLearning/dp-090-databricks-ml/blob/master/06%20-%20Distributed%20Deep%20Learning.dbc`
 
 ## 분산 딥 러닝 살펴보기
 
 이 연습에서는 하이퍼 매개 변수 튜닝에 자동 MLflow를 사용하는 방법을 살펴봅니다.
 
-1. 작업 영역의 **05 - 하이퍼 매개 변수 튜닝** 폴더에서 **1.0 Automated MLflow Hyperparameter Tuning** Notebook을 엽니다.
+1. 작업 영역의 **06 - 분산 딥 러닝** 폴더에서 **1.0 분산 딥 러닝** Notebook을 엽니다.
 
 1. 왼쪽 위의 드롭다운 메뉴에서 클러스터를 선택하여 Notebook을 해당 클러스터에 연결합니다. *(연결되지 않은 Notebook에서 첫 번째 셀을 실행하면 클러스터를 연결하라는 메시지가 표시됩니다.)*
 
