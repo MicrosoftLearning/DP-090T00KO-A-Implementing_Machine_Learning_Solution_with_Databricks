@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Azure Databricks를 통한 분산 딥 러닝'
     module: '연습(선택 사항)'
