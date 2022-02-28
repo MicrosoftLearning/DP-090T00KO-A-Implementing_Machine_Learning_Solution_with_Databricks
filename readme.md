@@ -1,3 +1,11 @@
+**Important Notice!**
+
+This repo was replaced by a [new repo](https://github.com/MicrosoftLearning/dp-090-databricks-ml.ko-kr) on 4 February 2022 . We're making this change to improve the localized version of this content and reduce the delta between English and localized content updates. 
+After a short interval, this repo will be archived.
+
+**Contributions**
+
+At this time, we are not accepting external contributions to this repo. If you have suggestions or spot any errors, please create a pull request or report an issue on the [new repo](https://github.com/MicrosoftLearning/dp-090-databricks-ml.ko-kr).
 # DP-090: Microsoft Azure Databricks를 사용하여 기계 학습 솔루션 구현
 
 - **MCT인가요?** - [MCT용 GitHub 사용자 가이드](https://microsoftlearning.github.io/MCT-User-Guide/)를 살펴보세요.
